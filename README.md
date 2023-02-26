@@ -14,7 +14,7 @@
 
 3. No arquivo index.js, substitua o valor da constante guildId pelo ID do servidor Discord que você deseja obter os emojis.
 
-4. No arquivo index.js, substitua o valor da constante token pelo seu token de bot do Discord.
+4. No arquivo index.js, substitua o valor da constante token pelo seu token de bot ou de conta do Discord.
 
 5. Abra o terminal e instale as dependências do projeto usando o comando npm install.
 
